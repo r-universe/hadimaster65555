@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "rladybugdb"]
+	path = rladybugdb
+	url = https://github.com/hadimaster65555/rladybugdb
